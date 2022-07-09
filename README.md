@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently not working
 
-- 👨‍💻 Any questions? You can contact me at <a href="">Instagram</a> and <a href="">Twitter</a> :D
+- 👨‍💻 Any questions? You can contact me at <a href="https://www.instagram.com/aeternumnuit/">Instagram</a> and <a href="https://www.linkedin.com/in/arianne-prado-979a1b244/">LinkedIn</a> :D
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Python.**
 
