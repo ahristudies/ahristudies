@@ -12,6 +12,4 @@
 
 - ⚡ A question for you: **Tell me a nice song to put in your MySpace Profile**
 
-<br><br>
-# Stats - #1OO Days of Code
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahristudies&theme=dracula&hide_border=true)](https://git.io/streak-stats)
