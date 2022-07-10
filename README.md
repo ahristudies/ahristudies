@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/108016103/178161168-b5788b12-0408-49ab-8fbb-4f31dbd3ac56.gif">
+<img src="https://user-images.githubusercontent.com/108016103/178161731-f98fe483-9d67-4d18-8400-f32bab646b77.gif">
 </p>
 
-<h1 align="center">✨ Follow me at #100DaysOfCode Challenge ✨</h1>
-<img src="https://i.pinimg.com/564x/fc/2e/d1/fc2ed1ad5e1cc2b3ffe1bbf499901a02.jpg" height="330em" align="right">
-<h2>Contents</h2>
+<h1 align="center">Hello, I'm Ahri 💕</h1>
+<img src="https://user-images.githubusercontent.com/108016103/178162146-f878ff74-18c6-4495-bdd6-6b756758d3a0.gif" height="330em" align="right">
+<h2>About Me</h2>
 
-* [Projects](rules.md)
-* [Log - click here to see my progress and thoughts](log.md)
+Hi everyone, <b>I'm Ahri Prado</b> ❤️. I'm currently in Yerevan, Armenia and I love creating projects and repositories that can help anyone who needs it <s>(look for course notes repositories)</s>. Also, I'm passionate about the Y2K aesthetic <s>(something you can notice on my github..)</s>. Anything can call me on my <a href="twitter.com/ahricodes">Twitter</a>, <a href="https://www.linkedin.com/in/arianne-prado-979a1b244/">LinkedIn</a> or my <a href="mailto:yurbashian@gmail.com?subject=Hello%20Ahri!&body=Hello%20Ahri%2C%20I%20saw%20your%20github%20page...">Email</a>.
 
-## Notes 💅🏻
+## My stats at 100 days of code 🦊
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahristudies&theme=omni)](https://git.io/streak-stats)
 
-* Sometimes I update my log at Twitter, you can follow me there: [@ahricodes](https://twitter.com/ka11away)
+
